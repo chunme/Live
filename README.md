@@ -5,9 +5,10 @@
 转自范明明，小白还在学习如何自己创建.m3u
 
 📺订阅地址
-https://github.com/chunme/Live/blob/2b0134c807492eb5cc1c075e7e6b9065d83c856b/PLTV%E7%89%A1%E4%B8%B9%E6%B1%9F%E7%A7%BB%E5%8A%A8.m3u
-
-📖项目说明
+(https://chunme.github.io/Live/)main//黑龙江PLTV.m3u
+(https://chunme.github.io/Live/)main/PLTV牡丹江移动.m3u
+(https://chunme.github.io/Live/)main/ipv6-fmm.m3u
+(https://chunme.github.io/Live/)main/ipv6-sx.m3u
 所有直播源均收集于互联网🌐，仅供测试研究使用，不得商用。
 
 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
