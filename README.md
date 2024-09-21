@@ -4,7 +4,7 @@
 
 💡项目公告
 
-转自fanmingming，小白还在学习如何自己创建.m3u
+转自 fanmingming,小白还在学习如何自己创建.m3u
 
 
 📺订阅地址
