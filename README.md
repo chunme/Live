@@ -9,9 +9,9 @@
 
 📺订阅地址
 
-https://chunme.github.io/Live/main//黑龙江PLTV.m3u
+https://chunme.github.io/Live/main//hlj.m3u
 
-https://chunme.github.io/Live/main/PLTV牡丹江移动.m3u
+https://chunme.github.io/Live/main/mdj.m3u
 
 https://chunme.github.io/Live/main/ipv6-fmm.m3u
 
