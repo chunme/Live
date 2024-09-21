@@ -13,10 +13,6 @@ https://ghp.ci/raw.githubusercontent.com/chunme/Live/main/hlj.m3u
 
 https://ghp.ci/raw.githubusercontent.com/chunme/Live/main/mdj.m3u
 
-https://ghp.ci/raw.githubusercontent.com/chunme/Live/main/ipv6-sx.m3u
-
-https://ghp.ci/raw.githubusercontent.com/chunme/Live/main/ipv6-fmm.m3u
-
 
 所有直播源均收集于互联网🌐，仅供测试研究使用，不得商用。
 
