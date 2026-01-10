@@ -9,10 +9,14 @@
 
 📺订阅地址
 
-https://ghp.ci/raw.githubusercontent.com/chunme/Live/main/hlj.m3u
-
-https://ghp.ci/raw.githubusercontent.com/chunme/Live/main/mdj.m3u
-
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/FM.m3u
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/FM.txt
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/hlj.m3u
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/黑龙江PLTV.txt
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/mdj.m3u
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/牡丹江移动.txt
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/移动IPTV.m3u
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/移动IPTV.txt
 
 所有直播源均收集于互联网🌐，仅供测试研究使用，不得商用。
 
