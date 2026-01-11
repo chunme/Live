@@ -9,19 +9,19 @@
 
 📺订阅地址
 
-https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/m3u/FM.m3u
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/m3u/FM广播.m3u
 
-https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/txt/FM.txt
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/txt/FM广播.txt
 
-https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/m3u/hlj.m3u
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/m3u/黑龙江PLTV.m3u
 
 https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/txt/黑龙江PLTV.txt
 
-https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/m3u/mdj.m3u
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/m3u/牡丹江移动.m3u
 
 https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/txt/牡丹江移动.txt
 
-https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/m3u/ydIPTV.m3u
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/m3u/移动IPTV.m3u
 
 https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/txt/移动IPTV.txt
 
