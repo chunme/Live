@@ -9,21 +9,21 @@
 
 📺订阅地址
 
-https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/FM.m3u
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/m3u/FM.m3u
 
-https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/FM.txt
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/txt/FM.txt
 
-https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/hlj.m3u
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/m3u/hlj.m3u
 
-https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/黑龙江PLTV.txt
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/txt/黑龙江PLTV.txt
 
-https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/mdj.m3u
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/m3u/mdj.m3u
 
-https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/牡丹江移动.txt
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/txt/牡丹江移动.txt
 
-https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/移动IPTV.m3u
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/m3u/ydIPTV.m3u
 
-https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/移动IPTV.txt
+https://gh-proxy.com/raw.githubusercontent.com/chunme/Live/main/txt/移动IPTV.txt
 
 所有直播源均收集于互联网🌐，仅供测试研究使用，不得商用。
 
